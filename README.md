@@ -12,3 +12,8 @@ Given some ``n`` print ``n`` if ``n <= 20`` and otherwise print ``-1``. <br>
 If for example our wrong code always outputs ``n`` no matter what, this is what will happen: <br>
 <br>
 ![image](https://github.com/Avuvos/CP-Stress-Tester/assets/92464368/723615c5-129a-41e4-ab67-6f7be2e7c0c2)
+<br>
+<br>
+However if everything is working correctly, it will always look like this: <br>
+![image](https://github.com/Avuvos/CP-Stress-Tester/assets/92464368/04c8a22b-60d1-463a-accc-0329e4972e5d)
+
