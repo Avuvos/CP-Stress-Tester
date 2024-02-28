@@ -2,10 +2,10 @@
 Stress Tester for Competitive Programming
 
 # Instructions
-- put the correct (but slow) brute force solution on ``brute_sol.cpp``
-- put the optimal (but wrong) solution on ``optimal_sol.cpp``
-- go to the ``testcase_generator.py`` and print the testcases according to the question
-- on your terminal run ``./tester.sh 20`` for example to run 20 testcases
+- Place the correct (but slow) brute force solution in the file ``brute_sol.cpp``.
+- Place the optimal (but wrong) solution in the file ``optimal_sol.cpp``.
+- Go to ``testcase_generator.py`` and modify the ``generate_and_print_testcase()`` function according to the question.
+- In your terminal, run ``./tester.sh 20`` for example to run 20 testcases.
 
 # Example
 Imagine the following simple and silly problem: <br>
