@@ -1,5 +1,7 @@
 # Competitive-Programming-Stress-Tester
 Stress Tester for Competitive Programming
+This is very useful when you have a code that gives wrong answer and you don't know why. <br>
+Write a brute force solution and compare it against your code, it will show you the testcases where you failed.
 
 # Instructions
 - Place the correct (but slow) brute force solution in the file ``brute_sol.cpp``.

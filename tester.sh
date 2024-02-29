@@ -15,7 +15,7 @@ echo  -e "\nStarting to run $n testcases\n"
 
 for ((testcase_number = 1; testcase_number <= n; testcase_number++)) do
     python testcase_generator.py # Generate and map testcases to testcase.txt
-#    cat testcase.txt   # If we want to print the testcase each time
+    # cat testcase.txt   If we want to print the testcase each time
 
     # Run the testcases on brute and optimal solutions
     ./brute_executable < testcase.txt > brute_out.txt

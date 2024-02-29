@@ -6,8 +6,9 @@ typedef long long ll;
 const int MOD = 1e9 + 7;
 const ll INF = 1e18;
 
+
+//Write brute force solution here
 void solve() {
-    //Write brute force solution
     int n;
     cin >> n;
     if (n > 20) {

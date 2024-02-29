@@ -66,12 +66,13 @@ def generate_random_array(size: int, low: int = 1, high: int = MAX_VALUE) -> Lis
     return [randint(low, high) for _ in range(size)]
 
 
-def print_array(arr) -> None:
+def print_array(arr: List) -> None:
     for element in arr:
         print(element, end=" ")
     print()
 
 
+# modify this function
 def generate_and_print_testcase() -> None:
     n = randint(0, 25)
     print(n)

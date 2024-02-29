@@ -6,8 +6,9 @@ typedef long long ll;
 const int MOD = 1e9 + 7;
 const ll INF = 1e18;
 
+
+//Write optimal solution here
 void solve() {
-    //Write your optimal but wrong code here
     int n;
     cin >> n;
     cout << n << endl;
