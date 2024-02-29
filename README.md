@@ -1,5 +1,5 @@
 # Competitive-Programming-Stress-Tester
-Stress Tester for Competitive Programming
+Stress Tester for Competitive Programming<br>
 This is very useful when you have a code that gives wrong answer and you don't know why. <br>
 Write a brute force solution and compare it against your code, it will show you the testcases where you failed.
 
