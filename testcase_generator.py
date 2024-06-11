@@ -74,8 +74,13 @@ def print_array(arr: List) -> None:
 
 # modify this function
 def generate_and_print_testcase() -> None:
-    n = randint(0, 25)
-    print(n)
+    n = randint(1, 2)
+    h = randint(3, 6)
+    l = randint(0, 2)
+    r = randint(l, h - 1)
+    print(n, h, l, r)
+    arr = generate_random_array(n, 1, h)
+    print_array(arr)
 
 
 def main():
