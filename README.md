@@ -7,7 +7,7 @@ Write a brute force solution and compare it against your code, it will show you 
 - Place the correct (but slow) brute force solution in the file ``brute_sol.cpp``.
 - Place the optimal (but wrong) solution in the file ``optimal_sol.cpp``.
 - Go to ``testcase_generator.py`` and modify the ``generate_and_print_testcase()`` function.
-- In your terminal, run ``./tester.sh 20`` for example to run 20 testcases.
+- In your terminal, run ``./mapper.sh 20`` for example to run 20 testcases.
 
 # Example
 Imagine the following simple and silly problem: <br>
